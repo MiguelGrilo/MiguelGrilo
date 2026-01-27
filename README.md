@@ -32,7 +32,7 @@
 <br>
 
 <a href="https://github.com/MiguelGrilo/BSc-AI-and-Data-Science">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="350">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="350"/>
 </a>
 
 </div>
@@ -42,13 +42,13 @@
 <h2 align="center" id="-socials">🌐 Socials</h2>
 
 <p align="center">
-  <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon.png" width="40"></a>
-  &nbsp;&nbsp;
-  <!--<a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon.png" width="40"></a>
-  &nbsp;&nbsp;-->
-  <a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon2.png" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon.png" width="40"></a>
+  <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon.png" width="30"></a>
+  &nbsp;
+  <!--<a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon.png" width="30"></a>
+  &nbsp;-->
+  <a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon2.png" height="30"></a>
+  &nbsp;
+  <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon.png" width="30"></a>
 </p>
 
 <br>
@@ -83,5 +83,14 @@
 <h2 align="center" id="-analytics">📊 Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelGrilo&layout=compact&theme=dracula&hide_border=true&timestamp=2">
+  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=8&theme=dracula&count_private=true" />
+  &nbsp;
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />
 </p>
+<!--
+<p align="center">
+  <img alt="Most Used Languages" height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=8&card_width=320&theme=dracula&count_private=true"/>
+  <img alt="Most Used Languages" height=160 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelGrilo&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true"/>
+  <br><br>
+  <img alt="MiguelGrilo's GitHub Stats" height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true"/>
+</p>-->
