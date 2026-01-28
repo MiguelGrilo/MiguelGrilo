@@ -5,8 +5,6 @@
 
 <br>
 
----
-
 <h2 align="center" id="-about-me">👤 About Me</h2>
 
 <blockquote>
@@ -31,23 +29,19 @@
 
 </div>
 
----
+<br>
 
 <h2 align="center" id="-socials">🌐 Socials</h2>
 
 <p align="center">
   <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon3.png" height="30"></a>
   &nbsp;
-  <!--<a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon.png" height="30"></a>
-  &nbsp;-->
   <a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon3.png" height="30"></a>
   &nbsp;
   <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon3.png" height="30"></a>
 </p>
 
 <br>
-
----
 
 <h2 align="center" id="-tech-stack">💻 Tech Stack</h2>
 
@@ -63,21 +57,19 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 </div>
-
----
 <!--
 <div align="center">
 <h2 align="center" id="-projects">📁 Projects</h2>
 <a href="https://github.com/MiguelGrilo/NexusFinance">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=Projects&theme=dracula&show_owner=true&hide_border=true" width="350">
-</a>
+</a>-->
 
----
--->
+<br>
+
 <h2 align="center" id="-analytics">📊 Analytics</h2>
 
 <p align="center">
-  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=8&theme=dracula&count_private=true" />
+  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=7&theme=dracula&count_private=true" />
   &nbsp;
   <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />
 </p>
