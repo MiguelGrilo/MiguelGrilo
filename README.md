@@ -1,13 +1,7 @@
 <h1 align="center">Miguel Grilo</h1>
 
-<p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-cert">Certifications & Languages</a> •
-  <a href="#-socials">Socials</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <!--<a href="#-projects">Projects</a> •-->
-  <a href="#-analytics">Analytics</a>
-</p>
+<h3 align="center"><a href="#-about-me">About Me</a> • <a href="#-cert">Certifications & Languages</a> • <a href="#-socials">Socials</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-analytics">Analytics</a></h3>
+  <!--<h3><a href="#-projects">Projects</a> •</h3>-->
 
 <br>
 
@@ -25,7 +19,7 @@
 
 <h3 align="center" id="-cert">Certifications & Languages</h3>
 
-**Portuguese:** Native 🔹 **English:** C2 Proficiency (EF SET)
+**Portuguese:** Native 🔹 **English:** C2 Proficiency ([EF SET](https://cert.efset.org/pt/XuH3o4))
 
 **Academic:** BSc in AI & Data Science (Final Year)
 
