@@ -36,13 +36,13 @@
 <h2 align="center" id="-socials">🌐 Socials</h2>
 
 <p align="center">
-  <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon.png" width="30"></a>
+  <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon2.png" width="30"></a>
   &nbsp;
   <!--<a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon.png" width="30"></a>
   &nbsp;-->
   <a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon2.png" height="30"></a>
   &nbsp;
-  <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon.png" width="30"></a>
+  <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon2.png" width="30"></a>
 </p>
 
 <br>
