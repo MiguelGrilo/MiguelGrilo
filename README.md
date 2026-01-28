@@ -45,6 +45,16 @@
   <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon2.png" height="30"></a>
 </p>
 
+<p align="center">
+  <a href="mailto:miguelgrilo82@gmail.com"><img src="./assets/mailIcon3.png" height="30"></a>
+  &nbsp;
+  <!--<a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon.png" height="30"></a>
+  &nbsp;-->
+  <a href="https://linkedin.com/in/miguelgrilo82"><img src="./assets/linkedInIcon3.png" height="30"></a>
+  &nbsp;
+  <a href="https://instagram.com/miguel.grilo"><img src="./assets/instagramIcon3.png" height="30"></a>
+</p>
+
 <br>
 
 ---
