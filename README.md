@@ -24,7 +24,7 @@
 <br>
 
 <a href="https://github.com/MiguelGrilo/BSc-AI-and-Data-Science">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="50%"/>
 </a>
 
 </div>
@@ -69,9 +69,9 @@
 <h2 align="center" id="-analytics">📊 Analytics</h2>
 
 <p align="center">
-  <img alt="Top Langs" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=7&theme=dracula&count_private=true" />
-  &nbsp;
-  <!--<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />-->
+  <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=7&theme=dracula&count_private=true" />
+  <!--&nbsp;
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />-->
 </p>
 <!--
 <p align="center">
