@@ -19,12 +19,12 @@
 
 **Portuguese:** Native 🔹 **English:** C2 Proficiency ([EF SET](https://cert.efset.org/pt/XuH3o4))
 
-**Academic:** BSc in AI & Data Science (Final Year)
+**Academic:** BSc in AI & Data Science &nbsp; &nbsp; 2023 - 2026 (Expected Final Year)
 
 <br>
 
 <a href="https://github.com/MiguelGrilo/BSc-AI-and-Data-Science">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="350"/>
 </a>
 
 </div>
@@ -57,17 +57,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 </div>
-<!--
+
 <div align="center">
 <h2 align="center" id="-projects">📁 Projects</h2>
-<a href="https://github.com/MiguelGrilo/NexusFinance">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=Projects&theme=dracula&show_owner=true&hide_border=true" width="350">
-</a>-->
+<a href="https://github.com/MiguelGrilo/UniBotProject">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=UniBotProject&theme=dracula&show_owner=true&hide_border=true" width="350">
+</a>
 
 <br>
 
 <h2 align="center" id="-analytics">📊 Analytics</h2>
 
+<p align="center">
+  <img alt="Top Langs" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelGrilo&layout=compact&theme=dracula&hide_border=false">
+</p>
+<!--
 <p align="center">
   <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=7&theme=dracula&count_private=true" />
   <!--&nbsp;
