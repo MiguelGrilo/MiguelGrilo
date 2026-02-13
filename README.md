@@ -1,7 +1,6 @@
 <h1 align="center">Miguel Grilo</h1>
 
-<h3 align="center"><a href="#-about-me">About Me</a> • <a href="#-cert">Certifications & Languages</a> • <a href="#-socials">Socials</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-analytics">Analytics</a></h3>
-  <!--<h3><a href="#-projects">Projects</a> •</h3>-->
+<h3 align="center"><a href="#-about-me">About Me</a> • <a href="#-cert">Certifications & Languages</a> • <a href="#-socials">Socials</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-projects">Projects</a> • <a href="#-analytics">Analytics</a></h3>
 
 <br>
 
