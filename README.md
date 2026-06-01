@@ -2,7 +2,6 @@
 
 <h3 align="center">
   <a href="#-about-me">About Me</a> • 
-  <a href="#-cert">Certifications & Languages</a> •
   <a href="#-socials">Socials</a> • 
   <a href="#-tech-stack">Tech Stack</a> • 
   <a href="#-experience">Experience</a> • 
@@ -22,7 +21,7 @@
 
 <div align="center">
 
-<h3 align="center" id="#-cert">Certifications & Languages</h3>
+<h3 align="center">Certifications & Languages</h3>
 
 **Portuguese:** Native 🔹 **English:** C2 Proficient ([EF SET Certified — 72/100](https://cert.efset.org/pt/XuH3o4))
 
