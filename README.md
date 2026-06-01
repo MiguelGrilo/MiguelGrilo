@@ -82,6 +82,8 @@
 ### Honours and Awards
 *   **Prémio + Diploma 2024/2025:** Awarded by the University of Évora (PROMETHEUS / PRR) under the *Programa Impulso Jovens STEAM* for academic merit.
 
+<br>
+
 <div align="center">
 <h2 align="center">📁 Featured Projects</h2>
 
