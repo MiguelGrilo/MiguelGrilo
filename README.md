@@ -83,12 +83,31 @@
 *   **Prémio + Diploma 2024/2025:** Awarded by the University of Évora (PROMETHEUS / PRR) under the *Programa Impulso Jovens STEAM* for academic merit.
 
 <div align="center">
-<h2 align="center" id="-projects">📁 Featured Projects</h2>
-<a href="https://github.com/MiguelGrilo/UniBotProject">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=UniBotProject&theme=dracula&show_owner=true&hide_border=true" width="350">
+<h2 align="center">📁 Featured Projects</h2>
+
+<a href="https://github.com/MiguelGrilo/BSc-AI-and-Data-Science">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=BSc-AI-and-Data-Science&theme=dracula&show_owner=true&hide_border=true" width="350">
+</a>
+<a href="https://github.com/MiguelGrilo/kotlin-android-portfolio">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=kotlin-android-portfolio&theme=dracula&show_owner=true&hide_border=true" width="350">
 </a>
 
 <br>
+
+<a href="https://github.com/MiguelGrilo/UniBotProject">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=UniBotProject&theme=dracula&show_owner=true&hide_border=true" width="350">
+</a>
+<a href="https://github.com/MiguelGrilo/Connect4">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=Connect4&theme=dracula&show_owner=true&hide_border=true" width="350">
+</a>
+
+<br>
+
+<a href="https://github.com/MiguelGrilo/LeetCodeChallenges">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MiguelGrilo&repo=LeetCodeChallenges&theme=dracula&show_owner=true&hide_border=true" width="350">
+</a>
+
+<br><br>
 
 <h2 align="center" id="-analytics">📊 Analytics</h2>
 
@@ -100,8 +119,8 @@
 <p align="center">
   <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=7&theme=dracula&count_private=true" />
   <!--&nbsp;
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />-->
-</p>
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MiguelGrilo&show_icons=true&theme=dracula&count_private=true" />
+</p>-->
 <!--
 <p align="center">
   <img alt="Most Used Languages" height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGrilo&layout=donut&langs_count=8&card_width=320&theme=dracula&count_private=true"/>
