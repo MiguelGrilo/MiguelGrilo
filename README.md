@@ -15,7 +15,7 @@
 
 <blockquote>
   <p align="justify"> 
-    I am a 3rd-year <b>AI & Data Science</b> student at the University of Évora. I specialize in building end-to-end intelligent systems and robust software architectures, combining advanced machine learning techniques with enterprise-ready backend design. With hands-on experience in enterprise e-commerce search pipelines (IMPACT Commerce), competitive industrial AI (AI Cup 2025), and a certified C2 English proficiency, I bridge the gap between complex engineering logic and impactful real-world applications.
+    I am a 1st-year <b>Informatics Engineering</b> Master's student at the University of Coimbra. I specialize in building end-to-end intelligent systems and robust software architectures, combining advanced machine learning techniques with enterprise-ready backend design. With hands-on experience in enterprise e-commerce search pipelines (IMPACT Commerce), competitive industrial AI (AI Cup 2025), and a certified C2 English proficiency, I bridge the gap between complex engineering logic and impactful real-world applications.
   </p>
 </blockquote>
 
